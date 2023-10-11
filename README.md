@@ -1,6 +1,7 @@
 # kubernetes-alias
 alias to use in kubernetes
 
+
 klogs:
 
 
@@ -15,3 +16,9 @@ kexec:
 knamespace: 
 
 ![image](https://github.com/pierinho13/kubernetes-alias/assets/17799110/a66a499b-9c90-4d34-8323-ce367277ea54)
+
+
+
+Instructions:
+
+In Mac:  Add alias in your .zprofile file
